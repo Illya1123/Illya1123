@@ -46,12 +46,6 @@
 
 ## 🛠️ Projects
 
-Tuyệt vời! Dưới đây là phiên bản đã **viết lại hoàn chỉnh và đẹp hơn**, theo đúng bố cục trước đó mà bạn muốn — có emoji, mô tả chi tiết, rõ ràng từng công nghệ sử dụng:
-
----
-
-## 🛠️ Projects
-
 * 🚕 [**Tour Booking App**](https://github.com/Illya1123/Travel-Web.git) – React Native + ReactJS & Vite + MoMo + MongoDB + Node.js
   ✈️ Dự án phát triển hệ thống **website và ứng dụng di động** phục vụ nhu cầu du lịch toàn diện.
   🔹 Cho phép người dùng:
