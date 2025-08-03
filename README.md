@@ -71,4 +71,7 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🕹️ Chơi trò chơi con rắn!
+Try it here 👉 [Play Now](https://illya1123.github.io/mini_snake/)
+
+---
