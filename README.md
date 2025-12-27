@@ -4,39 +4,46 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lequocanh2k3)
   [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lequocanh0101@gmail.com)
 
-## 💻 Tech Stack
+---
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+## 💻 Frontend
 
+| Category        | Technologies                                                                                                                                                                                                                                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**   | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript\&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript\&logoColor=white)                                                                          |
+| **Frameworks**  | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react\&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react\&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js\&logoColor=white) |
+| **Build Tools** | ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite\&logoColor=white)                                                                                                                                                                                                      |
+| **Styling**     | ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css\&logoColor=white)                                                                                              |
 
-### 🖥️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+---
 
-### 📊 Data & AI
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+## ⚙️ Backend & Databases
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?logo=bitwarden&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+| Category      | Technologies                                                                                                                                                                                       |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Backend**   | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js\&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?logo=nodemon\&logoColor=%BBDEAD)               |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql\&logoColor=white) |
+
+---
+
+## 🧠 Data, AI & Inference
+
+| Category                | Technologies                                                                                                                                                                                                                                                                   |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**           | ![Python](https://img.shields.io/badge/Python-3670A0?logo=python\&logoColor=ffdd54)                                                                                                                                                                                            |
+| **Data Science**        | ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib\&logoColor=black) |
+| **Deep Learning**       | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch\&logoColor=white)                                                                                                                                                                                   |
+| **Inference / Runtime** | ![ONNX](https://img.shields.io/badge/ONNX-000000.svg?logo=onnx\&logoColor=white) ![LiteRT JS](https://img.shields.io/badge/LiteRT.js-FF6F00.svg?logo=tensorflow\&logoColor=white)                                                                                              |
+
+---
+
+## 🛠️ Tools & DevOps
+
+| Category            | Technologies                                                                                                                                                                                                                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab\&logoColor=white) |
+| **API & Security**  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white) ![Bitwarden](https://img.shields.io/badge/Bitwarden-%23175DDC.svg?logo=bitwarden\&logoColor=white)                                                                             |
+| **Deployment**      | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare\&logoColor=white)                                                                             |
 
 ---
 # 📊 GitHub Stats:
