@@ -46,12 +46,6 @@
 | **Deployment**      | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare\&logoColor=white)                                                                             |
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Illya1123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Illya1123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Illya1123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## 🛠️ Projects
 
