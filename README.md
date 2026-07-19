@@ -102,8 +102,6 @@ Always building products that solve real-world business problems.
 
 ---
 
-# 👀 Visitors
-
 <div align="center">
 
 ![](https://count.getloli.com/@illya1123?name=illya1123&theme=rule34&padding=5&offset=0&align=top&scale=2&pixelated=1&darkmode=1&prefix=112003)
